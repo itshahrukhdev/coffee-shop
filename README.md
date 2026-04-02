@@ -1,4 +1,4 @@
-# Coffee Shop Landing Page
+# Coffee Shop Home Page
 
 This is a simple static landing page created using HTML and CSS.
 
