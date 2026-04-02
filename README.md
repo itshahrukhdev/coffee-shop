@@ -1,4 +1,4 @@
-# Clipboard Landing Page
+# Coffee Shop Landing Page
 
 This is a simple static landing page created using HTML and CSS.
 
